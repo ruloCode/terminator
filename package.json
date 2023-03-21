@@ -1,0 +1,28 @@
+{
+  "name": "terminator-rulocode",
+  "version": "1.0.0",
+  "description": "Chat GTP command line interface",
+  "main": "script.js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ruloCode/terminator.git"
+  },
+  "keywords": [
+    "terminator-rulocode"
+  ],
+  "author": "rulocode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruloCode/terminator/issues"
+  },
+  "homepage": "https://github.com/ruloCode/terminator#readme"
+}
